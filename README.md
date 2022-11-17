@@ -1,4 +1,4 @@
-# Project 02 - Easy Shopping
+# Project Easy Shopping
 
 <h2> This was a little project made based on DevClub classes. I used only HTML and CSS and I made a desktop and a mobile version. </h2> 
 
